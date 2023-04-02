@@ -1,5 +1,8 @@
 @media (prefers-color-scheme: dark) {
     body {
-        background: #222;
-        color: #eee;
+        background-image: url("/img/background.png");
+        background-color: #222;
     }}
+    header {
+        color: #eee
+      }
