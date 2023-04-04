@@ -1,10 +1,1 @@
-@media (prefers-color-scheme: dark) {
-    body {
-        background-image: url("/img/background.png");
-        background-color: #1a1c1d;
-        color: #eee;
-    }
-    meting-js {
-        color: #1a1c1d;
-    }
-}
+@media (prefers-color-scheme: dark) {body {color: #1a1c1d;background-image: none;}}.mcolor {color: #add8e6;}.tcolor {color: #ffc0cb;}.back {color: #ffb6c1;}
